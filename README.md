@@ -1,1 +1,1 @@
-michalskyz.github.io
+https://michalskyz.github.io
